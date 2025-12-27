@@ -9,7 +9,7 @@ on:
         default: 'https://github.com/YOUR_USERNAME/REPOSITORY/releases/...'
 
 env:
-  RECOVERY_URL : https://filebin.net/iomz2upu9dlsinz2/recovery.img'
+  RECOVERY_URL : 'https://filebin.net/iomz2upu9dlsinz2/recovery.img'
 
 jobs:
   build:
